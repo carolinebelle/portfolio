@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9d9bc456.chunk.css",
+    "main.js": "/portfolio/static/js/main.d9e21283.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d9e21283.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.94522be5.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.94522be5.js.map",
+    "static/js/2.b1fd3481.chunk.js": "/portfolio/static/js/2.b1fd3481.chunk.js",
+    "static/js/2.b1fd3481.chunk.js.map": "/portfolio/static/js/2.b1fd3481.chunk.js.map",
+    "static/js/3.652f6c9c.chunk.js": "/portfolio/static/js/3.652f6c9c.chunk.js",
+    "static/js/3.652f6c9c.chunk.js.map": "/portfolio/static/js/3.652f6c9c.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.9d9bc456.chunk.css.map": "/portfolio/static/css/main.9d9bc456.chunk.css.map",
+    "static/js/2.b1fd3481.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b1fd3481.chunk.js.LICENSE.txt",
+    "static/media/CarolineYoon.5251b3cd.png": "/portfolio/static/media/CarolineYoon.5251b3cd.png",
+    "static/media/fizzbuzz-img.23c3f52a.png": "/portfolio/static/media/fizzbuzz-img.23c3f52a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94522be5.js",
+    "static/js/2.b1fd3481.chunk.js",
+    "static/css/main.9d9bc456.chunk.css",
+    "static/js/main.d9e21283.chunk.js"
+  ]
+}
