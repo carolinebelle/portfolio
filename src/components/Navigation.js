@@ -6,6 +6,7 @@ import styled from "styled-components";
 const links = [
   { name: "Home", path: "/" },
   { name: "About", path: "/about" },
+  { name: "RadReader", path: "/radreader" },
 ];
 
 const NavUnlisted = styled.ul`

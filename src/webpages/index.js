@@ -4,8 +4,8 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./home";
 import About from "./about";
 import Layout from "../components/Layout";
-// import MyBooks from './mybooks';
-// import Favorites from './favorites';
+import RadReader from "./RadReader";
+
 const Webpages = () => {
   return (
     <div className="wrapper">
@@ -14,6 +14,7 @@ const Webpages = () => {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
+            <Route path="/radreader" element={<RadReader />} />
           </Routes>
         </Layout>
       </BrowserRouter>
